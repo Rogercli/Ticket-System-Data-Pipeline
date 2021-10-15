@@ -6,7 +6,7 @@ import pandas as pd
 
 dbconfig={'host':'localhost',
         'user':'root',
-        'password':'Mysqlp@assword1',
+        'password':'YOUR_PASSWORD',
         'auth_plugin':'mysql_native_password'}
 
 
